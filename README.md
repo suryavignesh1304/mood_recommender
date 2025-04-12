@@ -98,16 +98,16 @@
 <h3>Test Image Predictions</h3>
     <p>
         <strong>Input Image:</strong>
-        <img src="outputs/sample_face.jpg" alt="Sample Face Image">
+        <img src="outputs/sample_image.png" alt="Sample Face Image">
     </p>
     <p>
         <!-- Replace with actual sample face image -->
-        <strong>Prediction:</strong> Mood: sad<br>
+        <strong>Prediction:</strong> Mood: Happy<br>
         <strong>Recommendations:</strong><br>
-        - Playlist: <a href="https://open.spotify.com/playlist/37i9dQZF1DX7gIo7ysWO4Z" target="_blank">Alone Again</a><br>
+        - Playlist: <a href="https://open.spotify.com/playlist/37i9dQZF1DX7gIo7ysWO4Z" target="_blank">Bright yellow</a><br>
         - Quote: "The greatest glory in living lies not in never falling, but in rising every time we fall." - Nelson Mandela<br>
         - Lighting: Soft blue<br>
-        - Activity: Journal your thoughts
+        - Activity: Dance or go for a run
     </p>
 
 <h2>Model Performance</h2>
