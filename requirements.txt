@@ -1,9 +1,9 @@
-fer
-streamlit
-tensorflow
+streamlit==1.38.0
+tensorflow==2.15.0
 opencv-python-headless==4.8.1.78
-nltk
-spotipy
-requests
-numpy
-h5py
+nltk==3.8.1
+spotipy==2.24.0
+requests==2.31.0
+numpy==1.26.4
+h5py==3.10.0
+fer==22.0.0
