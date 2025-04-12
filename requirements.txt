@@ -1,0 +1,9 @@
+fer
+streamlit
+tensorflow
+opencv-python-headless
+nltk
+spotipy
+requests
+numpy
+h5py

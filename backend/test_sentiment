@@ -1,0 +1,13 @@
+# E:\mood_recommender\test_sentiment.py
+from sentiment_analysis import SentimentAnalyzer
+
+analyzer = SentimentAnalyzer()
+texts = [
+    "I’m overjoyed! Just got married today!",
+    "I’m devastated. My family is struggling.",
+    "It’s a normal day. Nothing exciting.",
+    "I’m enraged! Someone stole my phone!"
+]
+for text in texts:
+    mood = analyzer.analyze_text(text)
+    print(f"Text: {text}\nMood: {mood}\n")
