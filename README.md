@@ -89,7 +89,7 @@
     <p>
         <strong>Prediction:</strong> Mood: happy<br>
         <strong>Recommendations:</strong><br>
-        - Playlist: <a href="https://open.spotify.com/playlist/37i9dQZF1DXcBWuV5BH6fm" target="_blank">Mood Booster</a><br>
+        - Playlist: <a href="https://open.spotify.com/playlist/37i9dQZF1DX3rxVfibe1L0" target="_blank">Mood Booster</a><br>
         - Quote: "Happiness is not by chance, but by choice." - Jim Rohn<br>
         - Lighting: Warm yellow<br>
         - Activity: Dance to upbeat music
@@ -104,7 +104,7 @@
         <!-- Replace with actual sample face image -->
         <strong>Prediction:</strong> Mood: Happy<br>
         <strong>Recommendations:</strong><br>
-        - Playlist: <a href="https://open.spotify.com/playlist/37i9dQZF1DX7gIo7ysWO4Z" target="_blank">Bright yellow</a><br>
+        - Playlist: <a href="https://open.spotify.com/playlist/37i9dQZF1DX3rxVfibe1L0" target="_blank">Mood Boster</a><br>
         - Quote: "The greatest glory in living lies not in never falling, but in rising every time we fall." - Nelson Mandela<br>
         - Lighting: Soft blue<br>
         - Activity: Dance or go for a run
@@ -124,5 +124,5 @@
 
 <h2>Contact</h2>
     <p>
-        For any queries or contributions, feel free to reach out via <a href="https://github.com/your-username/mood-based-recommender/issues" target="_blank">GitHub Issues</a> or email.
+        For any queries or contributions, feel free to reach out via <a href="https://github.com/suryavignesh1304/mood-based-recommender/issues" target="_blank">GitHub Issues</a> or email.
     </p>
